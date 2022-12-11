@@ -9,13 +9,13 @@ The project contains clone of website `Paytm.com` . This is a fully responsive c
 
 
 # Technologies Used
-<img align="left" alt="HTML5" width="26px" src="./paytm_image/readmeAssets/html-5.png" /> `HTML`
+<img align="left" alt="HTML5" width="26px" src="./src/html-5.png" /> `HTML`
 
 
-<img align="left" alt="CSS3" width="26px" src="./paytm_image/readmeAssets/css-3.png" /> `CSS`
+<img align="left" alt="CSS3" width="26px" src="./src/css-3.png" /> `CSS`
 
 
-<img align="left" alt="Tailwind CSS" width="26px" src="./paytm_image/readmeAssets/logo512.png" /> `REACT`
+<img align="left" alt="Tailwind CSS" width="26px" src="./src/logo512.png" /> `REACT`
 # Features
  - Build over REACT
  - Clean and Beautiful UI Design
@@ -24,11 +24,11 @@ The project contains clone of website `Paytm.com` . This is a fully responsive c
 Click [here](https://avinashchandra043.github.io/Paytm-Clone/) to run the app.
  # Website
  ## Desktop Version
- ![](paytm_image/Screenshots/desktop.png)
+ ![](src/desktop.png)
  ## Mobile Version
- ![](paytm_image/Screenshots/mobile_1.png)
+ ![](src/mobile_1.png)
  
-  ![](paytm_image/Screenshots/mobile_2.png)
+  ![](src/mobile_2.png)
  # Contact
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
  
