@@ -1,0 +1,29 @@
+.card_2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+.card_2_logo {
+  width: 200px;
+  margin-top: 150px;
+}
+.card_2_head {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.card_2_cont {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+.card_2_ban {
+  width: 450px;
+  margin-top: 50px;
+}
+.card_2_out {
+  box-shadow: 5px 5px 10px 0px rgb(167, 167, 167);
+  width: 550px;
+  border-radius: 20px;
+  margin: 50px 40px 50px 40px;
+}

@@ -1,0 +1,66 @@
+.Download_Paytm_App {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 20px;
+  width: 225px;
+  justify-content: center;
+  height: 40px;
+  font-size: 15px;
+  font-weight: 500;
+  color: white;
+  border: 1px solid black;
+}
+svg {
+  fill: white;
+  transition: 0.2s;
+}
+.Download_Paytm_App:hover {
+  background-color: white;
+  color: black;
+}
+.Download_Paytm_App:hover svg {
+  fill: black;
+}
+.SquareLogo {
+  width: 75px;
+  box-shadow: 3px 3px 5px 0px rgb(237, 236, 236);
+}
+.left_side_upper_image {
+  display: flex;
+  width: 40vw;
+  flex-direction: column;
+  gap: 50px;
+  margin: 10px;
+  margin-left: 50px;
+}
+.PaytmBanner {
+  width: 500px;
+}
+.upper_image {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: white;
+}
+.upper_upper_text {
+  font-size: 25px;
+}
+.upper_lower-text {
+  font-size: 17px;
+  font-weight: 600;
+}
+@media only screen and (max-width: 1000px) {
+  .upper_image {
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+  }
+  .left_side_upper_image {
+    width: 80vw;
+    align-items: center;
+    text-align: center;
+  }
+}

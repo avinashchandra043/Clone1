@@ -1,0 +1,27 @@
+.hover_doubleRibbon {
+  width: 170px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  margin-left: 10px;
+  padding-bottom: 30px;
+}
+.hover_doubleRibbon_image {
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 60px;
+}
+.hover_doubleRibbon_text {
+  color: white;
+  width: 120px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: 600;
+}
+.hover_doubleRibbon:hover {
+  background-color: rgba(211, 228, 251, 0.299);
+}
+.RightArrow {
+  width: 10px;
+  margin-left: 10px;
+}

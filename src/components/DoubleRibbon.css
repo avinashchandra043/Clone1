@@ -1,0 +1,31 @@
+.ribbons_hold {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+.upper_ribbon {
+  background-color: #00baf2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.lower_ribbon {
+  background-color: #152b75;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.ribbon_text {
+  color: white;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.ribbon_images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 75px;
+  margin-top: 30px;
+}
