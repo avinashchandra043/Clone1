@@ -19,7 +19,7 @@ The project contains clone of website `Paytm.com` . This is a fully responsive c
  - Clean and Beautiful UI Design
  - Fully Responsive Mobile Design
   # Link
-Click [here](https://avinashchandra043.github.io/Paytm-Clone/) to run the app.
+Click [here](https://avinashchandra043.github.io/Clone1/) to run the app.
  # Website
  ## Desktop Version
  ![](src/desktop.png)
