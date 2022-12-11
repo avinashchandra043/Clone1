@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Clone1/static/css/main.c779be31.css",
+    "main.js": "/Clone1/static/js/main.c7a8278d.js",
+    "static/media/14.webp": "/Clone1/static/media/14.6fdcd0567a503eb99a23.webp",
+    "static/media/21.webp": "/Clone1/static/media/21.1f9eeefaab84c563a771.webp",
+    "static/media/card-2.webp": "/Clone1/static/media/card-2.ae5315d54f12cd24166c.webp",
+    "static/media/final.webp": "/Clone1/static/media/final.2606fc5dfe1e79ee54a6.webp",
+    "static/media/card3.webp": "/Clone1/static/media/card3.b63e3b2968b423bb3eeb.webp",
+    "static/media/card1.webp": "/Clone1/static/media/card1.302669dfc6ff55ed9dfd.webp",
+    "static/media/banner.webp": "/Clone1/static/media/banner.f4eb1c575d49663d7e81.webp",
+    "static/media/sbi2.webp": "/Clone1/static/media/sbi2.ebd85510b1d7616fbae4.webp",
+    "static/media/bank2.webp": "/Clone1/static/media/bank2.c0b7adf720d9c616b4a9.webp",
+    "static/media/20.webp": "/Clone1/static/media/20.60f62264f1b3dbfdfb63.webp",
+    "static/media/loan1.webp": "/Clone1/static/media/loan1.a446944c0d5c07873a7e.webp",
+    "static/media/c1.webp": "/Clone1/static/media/c1.96262e07e488471cfb9b.webp",
+    "static/media/16.webp": "/Clone1/static/media/16.3c9b3a25a021fc58ec13.webp",
+    "static/media/c3.webp": "/Clone1/static/media/c3.7afc9c2d5155975b8732.webp",
+    "static/media/bg-section.webp": "/Clone1/static/media/bg-section.12f065871b4c92b02dbc.webp",
+    "static/media/insurance.webp": "/Clone1/static/media/insurance.965f0fdaca66e6d3698d.webp",
+    "static/media/playstore.svg": "/Clone1/static/media/playstore.606cf71bb1288a74df7f9bad896758bf.svg",
+    "static/media/appstore.svg": "/Clone1/static/media/appstore.db4a81fc5a9ac9c178b5dce07f4a09d3.svg",
+    "static/media/c4.webp": "/Clone1/static/media/c4.cf5160b17ac416d472f4.webp",
+    "static/media/c2.webp": "/Clone1/static/media/c2.675c525e812350d4e2a7.webp",
+    "static/media/postpaid.webp": "/Clone1/static/media/postpaid.390e481913d132ceec45.webp",
+    "static/media/15.webp": "/Clone1/static/media/15.e4083aeb2702631a9c52.webp",
+    "static/media/hero_14.webp": "/Clone1/static/media/hero_14.e777d53c35940fd226e5.webp",
+    "index.html": "/Clone1/index.html",
+    "main.c779be31.css.map": "/Clone1/static/css/main.c779be31.css.map",
+    "main.c7a8278d.js.map": "/Clone1/static/js/main.c7a8278d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c779be31.css",
+    "static/js/main.c7a8278d.js"
+  ]
+}
